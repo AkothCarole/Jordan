@@ -44,7 +44,7 @@ img{
   font-size: 1.2em;
   padding: 100px 0px 0px;
 }
-.Firstpart,.Third{
+.Firstpart.Third{
   height: 100pz;
   padding: 150px 0px 0px 0px;
   line-height: 0.3px;
