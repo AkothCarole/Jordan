@@ -7,7 +7,7 @@ body{
 section{
   width: 630px;
   margin: 0 auto;
-  background-image:url(../assets/bg.jpg);
+  background-image:url(../img/bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -22,7 +22,7 @@ img{
   font-family: 'Lato', sans-serif;
   background-color: rgba(255,255,255,0.4);
 }
-.top{
+.Header{
   width: 630px;
   height: 100px;
   margin: 0 auto;
@@ -34,7 +34,7 @@ img{
   color: #f59d2f;
   font-family: 'Lato', sans-serif;
 }
-.panel1, .panel2, .panel3 {
+.Firstpart, .Secondpart, .Third {
   width: 210px;
   height: 300px;
   margin: 0 auto;
@@ -44,13 +44,13 @@ img{
   font-size: 1.2em;
   padding: 100px 0px 0px;
 }
-.panel1, .panel3{
+.Firstpart,.Third{
   height: 100pz;
   padding: 150px 0px 0px 0px;
   line-height: 0.3px;
 
 }
-.panel4{
+.Fourth{
   text-align: center;
   margin: 0 auto;
   color: #fff;
@@ -71,7 +71,7 @@ img{
   font-size: 1.3em;
   font-family: 'Lato', sans-serif;
 }
-.bottom{
+.Footer{
   width: 630px;
   height: 100px;
   background-color:rgba(85, 89, 90, 0.8);
@@ -82,7 +82,7 @@ img{
   text-align: center;
   line-height: 50px;
 }
-.panel5, .panel6, .panel7 {
+.Fifth, .Sixth, .Seventh {
   width: 208px;
   height:100px;
   color: #fff;
@@ -90,7 +90,7 @@ img{
   float: left;
   line-height: 0.3px;
 }
-.panel6{
+.Sixth{
   border-width: 0px 3px 0px 3px;
   border-color: #abb3b5;
   border-style: solid;
