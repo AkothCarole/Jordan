@@ -77,12 +77,13 @@ img{
   background-color:rgba(85, 89, 90, 0.8);
   width: 630px;
   height: 100px;
-  margin: 0 auto;
+  margin: 0px auto;
   font-family: 'Lato', sans-serif;
   text-align: center;
   line-height: 50px;
 }
 .Fifth, .Sixth, .Seventh {
+  margin top: 50px;
   width: 208px;
   height:100px;
   color: #fff;
